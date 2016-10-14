@@ -1,21 +1,21 @@
 
- -backround is 4 lane road
- -start 3 lives 
- -powerups
- -roket boost
-  -lasts 3 seconds
-  -bursts through things at a fast speed
- -shield
-  -gives you a extra life
-  -gives invunurability for 5 seconds
- -you are a car you can purchase dif colors for credits
- -credits
-  -earn credits by playing game
- -car starts as a light blue car 
-  -cars are more down the color wheel for the more they cost
- -you drive car to avoid obstacles
- -sometimes there will be suprise obstacles
-  -obstacles that apear in the middle of screen rather than at the front
- -you can also die from out of gas
-  -collect gas to let your car run further
- -
+ - backround is 4 lane road
+ - start 3 lives 
+ - powerups
+ - roket boost
+  - lasts 3 seconds
+  - bursts through things at a fast speed
+ - shield
+  - gives you a extra life
+  - gives invunurability for 5 seconds
+ - you are a car you can purchase dif colors for credits
+ - credits
+  - earn credits by playing game
+ - car starts as a light blue car 
+  - cars are more down the color wheel for the more they cost
+ - you drive car to avoid obstacles
+ - sometimes there will be suprise obstacles
+  - obstacles that apear in the middle of screen rather than at the front
+ - you can also die from out of gas
+  - collect gas to let your car run further
+ - 
