@@ -15,4 +15,7 @@
  -cars are more down the color wheel for the more they cost
 -you drive car to avoid obstacles
 -sometimes there will be suprise obstacles
- -obstacles that apear after your field of vision
+ -obstacles that apear in the middle of screen rather than at the front
+-you can also die from out of gas
+ -collect gas to let your car run further
+-
