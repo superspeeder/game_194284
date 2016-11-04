@@ -2,7 +2,7 @@
  - backround is 4 lane road
  - start 3 lives 
  - powerups
- - roket boost
+ - rocket boost
   - lasts 3 seconds
   - bursts through things at a fast speed
  - shield
@@ -18,4 +18,5 @@
   - obstacles that apear in the middle of screen rather than at the front
  - you can also die from out of gas
   - collect gas to let your car run further
+  - car upgrades let you have more gas
  - 
